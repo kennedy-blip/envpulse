@@ -1,1 +1,1 @@
-npm r
+npm ru
