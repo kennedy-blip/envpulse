@@ -1,1 +1,1 @@
-npm ru
+npm run
