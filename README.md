@@ -1,2 +1,2 @@
 npm run dev
-npm r
+npm ru
