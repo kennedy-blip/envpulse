@@ -1,2 +1,2 @@
 npm run dev
-npm run in
+npm run ins
