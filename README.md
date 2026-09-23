@@ -1,3 +1,3 @@
 npm run dev
 npm run install
-npm run buil
+npm run build
