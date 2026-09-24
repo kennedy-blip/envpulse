@@ -1,4 +1,4 @@
 npm run dev
 npm run install
 npm run build 
-git fix error
+git fix errors
